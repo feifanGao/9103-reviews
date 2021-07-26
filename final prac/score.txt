@@ -1,0 +1,5 @@
+Ross 95
+Joey 45
+Chandler 75
+Monica 28
+Phoebe 63
